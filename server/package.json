@@ -1,0 +1,21 @@
+{
+  "name": "auth-stack",
+  "version": "1.0.0",
+  "description": "Completed Authentication solution using MERN as Tech Stact. Auth-stackis boilerplate code of completed authentication system which developers can use to save their time building authentication system again and again for their next Full stack project.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.ts"
+  },
+  "author": "Vitthal Gund",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "express": "^4.18.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

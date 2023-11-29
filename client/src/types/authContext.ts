@@ -5,7 +5,7 @@ export type userData = {
 
 export type auth = {
   email: string;
-  roles: string;
+  roles: string[];
   accessToken: string;
   username: string;
 };
@@ -13,7 +13,7 @@ export type auth = {
 export type AuthContext = {
   updateUserData: (data: userData) => void;
   updateAuth: (data: auth) => void;
-  setPersist: (data: boolean) => void;
+  setPersist: (data: string) => void;
   auth: auth;
   userData: userData;
   persist: string;

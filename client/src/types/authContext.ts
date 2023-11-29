@@ -8,12 +8,11 @@ export type auth = {
   roles: string;
   accessToken: string;
   username: string;
-  password: string;
 };
 
 export type AuthContext = {
-  updateUserData?: (data: userData) => void;
-  updateAuth?: (data: auth) => void;
+  updateUserData: (data: userData) => void;
+  updateAuth: (data: auth) => void;
   setPersist: (data: boolean) => void;
   auth: auth;
   userData: userData;

@@ -4,7 +4,7 @@ import { ChangeEvent, useEffect, useState } from "react";
 import { toast, ToastContainer } from "react-toastify";
 import axios from "axios";
 
-export default function SignupPage() {
+export default function SignIn() {
     // const router = useNavigate();
     const [showPassword, setShowPassword] = useState(false);
     const [showConfirmPassword, setConfirmPassword] = useState(false);

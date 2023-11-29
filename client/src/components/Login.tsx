@@ -5,7 +5,7 @@ import axios from "axios";
 import { toast, ToastContainer } from "react-toastify";
 
 
-export default function LoginPage() {
+export default function LogIn() {
     // const router = useNavigate();
     const [showPassword, setShowPassword] = useState(false);
 

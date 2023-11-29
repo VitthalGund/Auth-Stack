@@ -1,14 +1,29 @@
-import './App.css'
+import { BrowserRouter as Router, Routes, Route, } from "react-router-dom";
+import RequireAuth from "./components/RequireAuth.tsx";
+import PersistenLogin from "./components/PersistentLogin.js";
 
-function App() {
-
+const ROLES = {
+  'User': 2001,
+  'Editor': 1984,
+  'Admin': 5150
+}
+export default function App() {
   return (
     <>
-      <div>
-        <h1 className='text-blue-700 font-bold text-5xl'>Hello World</h1>
-      </div>
+      <Router>
+
+        <Routes>
+          {/* Public route */}
+          <Route element={<PersistenLogin />}>
+
+            {/* Protected route */}
+            <Route element={<RequireAuth allowedRoles={[ROLES.User]} />}>
+            </Route>
+          </Route>
+        </Routes>
+      </Router>
+
+
     </>
   )
 }
-
-export default App

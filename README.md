@@ -83,4 +83,4 @@ Auth Stack is licensed under the [ Apache-2.0 license](https://github.com/Vittha
 
 ## Open Source Contributions
 
-We welcome contributions from the open-source community. If you'd like to contribute to Auth Stack, please follow our [contribution guidelines](https://github.com/VitthalGund/Auth-Stack/blob/main/contribution.md). Your input is valuable in enhancing the functionality and stability of Auth Stack for everyone.
+We welcome contributions from the open-source community. If you'd like to contribute to Auth Stack, please follow our [contribution guidelines](https://github.com/VitthalGund/Auth-Stack/blob/main/CONTRIBUTING.md). Your input is valuable in enhancing the functionality and stability of Auth Stack for everyone.

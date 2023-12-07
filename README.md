@@ -79,7 +79,7 @@ If you encounter any issues or have questions, don't hesitate to [raise an issue
 
 ## Licensing
 
-Auth Stack is licensed under the [MIT License](). Feel free to use, modify, and distribute this codebase in your projects.
+Auth Stack is licensed under the [ Apache-2.0 license](https://github.com/VitthalGund/Auth-Stack/blob/main/LICENSE). Feel free to use, modify, and distribute this codebase in your projects.
 
 ## Open Source Contributions
 

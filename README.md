@@ -72,18 +72,15 @@ Before you begin, ensure you have the following:
 
 Auth Stack is designed to be 100% customizable. Utilize the provided source code as a robust starting point for your projects. Tailor the components both functionally and aesthetically to seamlessly integrate with your project.
 
-## Documentation
-
-For comprehensive information on customization, usage, and API documentation, refer to the [official documentation](link-to-documentation).
 
 ## Support
 
-If you encounter any issues or have questions, don't hesitate to [raise an issue on GitHub](link-to-issues). Explore the FAQs in the documentation for answers to common queries.
+If you encounter any issues or have questions, don't hesitate to [raise an issue on GitHub](https://github.com/VitthalGund/Auth-Stack/issues/new)). Explore the FAQs in the documentation for answers to common queries.
 
 ## Licensing
 
-Auth Stack is licensed under the [MIT License](link-to-license). Feel free to use, modify, and distribute this codebase in your projects.
+Auth Stack is licensed under the [MIT License](). Feel free to use, modify, and distribute this codebase in your projects.
 
 ## Open Source Contributions
 
-We welcome contributions from the open-source community. If you'd like to contribute to Auth Stack, please follow our [contribution guidelines](link-to-contributing). Your input is valuable in enhancing the functionality and stability of Auth Stack for everyone.
+We welcome contributions from the open-source community. If you'd like to contribute to Auth Stack, please follow our [contribution guidelines](https://github.com/VitthalGund/Auth-Stack/blob/main/contribution.md). Your input is valuable in enhancing the functionality and stability of Auth Stack for everyone.

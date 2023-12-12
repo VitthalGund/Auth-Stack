@@ -26,10 +26,11 @@ As a developer, I frequently encountered the need for a reliable and scalable au
 - **Backend:**
   - Node.js + TypeScript for API development, incorporating routes for registration, login, profile updates, password reset, and email verification.
 
-### Next.js Stack
+### Next.js JS
 
 - **Frontend and Backend:**
   - Similar components and hooks, with API routes implemented in Next.js.
+  - [GitHub](https://github.com/VitthalGund/Auth-Stack-NextJs)
 
 ## Getting Started
 

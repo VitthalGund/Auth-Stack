@@ -16,6 +16,9 @@ export default function App() {
       <Router>
 
         <Routes>
+          <Route caseSensitive={true} path="/" element={
+            <h1 className="text-2xl text-blue-700 font-bold flex justify-center items-center">Welcome to Auth stack</h1>
+          }></Route>
           {/* Public route */}
           <Route element={<PersistenLogin />}>
             <Route caseSensitive={true} path="/login" element={

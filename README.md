@@ -66,7 +66,7 @@ Before you begin, ensure you have the following:
 3. **Install Dependencies:**
    - Install project dependencies using `npm install`.
 
-Make sure to run `npm run update command
+Make sure to run `npm run update` command
 
 4. **Run the Application:**
    - Execute the application with `npm run dev`.

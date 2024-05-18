@@ -38,11 +38,11 @@ As a developer, I frequently encountered the need for a reliable and scalable au
 
 Before you begin, ensure you have the following:
 
-**For MEAN:**
+**For MERN:**
 - JavaScript
 - Node.js
 - Tailwind CSS
-- Angular 
+- React.js
 - TypeScript
 
 **For Next.js:**
@@ -65,6 +65,8 @@ Before you begin, ensure you have the following:
 
 3. **Install Dependencies:**
    - Install project dependencies using `npm install`.
+
+Make sure to run `npm run update command
 
 4. **Run the Application:**
    - Execute the application with `npm run dev`.

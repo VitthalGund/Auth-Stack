@@ -38,11 +38,11 @@ As a developer, I frequently encountered the need for a reliable and scalable au
 
 Before you begin, ensure you have the following:
 
-**For MERN:**
+**For MEAN:**
 - JavaScript
 - Node.js
 - Tailwind CSS
-- React.js
+- Angular 
 - TypeScript
 
 **For Next.js:**
